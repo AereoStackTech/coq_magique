@@ -1,0 +1,6 @@
+{
+  "name": "Volaille & Feu - Concept Gastronomique",
+  "description": "Wood-fired poultry restaurant, takeaway, and direct-ordering experience concept in Salé, Morocco. Independent portfolio concept.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
